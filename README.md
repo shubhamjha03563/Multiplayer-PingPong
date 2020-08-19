@@ -7,7 +7,7 @@ RULE - The player who lets the ball touch his/ her side of the game window 'ten 
 first, loses. 
 
 Controls(1 player) - Left and right arrow keys.
-Controls(2 players) - Left and right arrow keys for player 1 AND Keys 'A' and 'D' for
+Controls(2 players) - Keys 'A' and 'D' for player 1 AND right and left arrow keys for
 player 2.
 
 Tools used -
